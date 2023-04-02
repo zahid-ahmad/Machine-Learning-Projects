@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+#Early Diabetes Prediction ML
